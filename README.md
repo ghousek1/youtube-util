@@ -1,2 +1,2 @@
 # youtube-util
-Utility tool for youtube
+Utility extension for youtube
